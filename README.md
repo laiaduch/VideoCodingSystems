@@ -1,4 +1,4 @@
-# VideoEncodingSystems
+# VideoCodingSystems
 This repository has been created to upload the results of the Audio and Video Systems Coding course. There is a folder for each laboratory.
 
 ## Lab 1. JPEG & MPEG
