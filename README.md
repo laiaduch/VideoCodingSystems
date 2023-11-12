@@ -6,3 +6,6 @@ In the Lab 1 folder, you can find the Python script rgb_yuv.py, where all the fu
 
 ## Lab 2. Python & Video
 The objective of this lab is to create different methods for video processing. In our case, we use the Big Buck Bunny video (which can be found in the Lab 2 folder). In Lab 2, there are two scripts (convert_to_mpeg.py and task5.py). Each of the scripts includes testing for the functions created. We can find the results obtained for the first script on /Lab2/Results, and for the second one on /Lab2/Results/task5.
+
+## S2. (More) Python & Video
+The objective of Seminar 2 is to expand the use of Python by using ffmpeg to perform various video processes. There are three scripts, with the main script containing an interactive section where the user must choose the task to be performed. Inside the S2 folder, all the necessary code is available, along with a PDF file explaining each task.
